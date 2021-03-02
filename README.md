@@ -55,8 +55,16 @@ Within this project, I have created a Postgres Database locally and I will inser
 
 ## ETL
 
-Python will be used to create the ETL pipeline
+Python will be used to create the ETL pipeline which is first tested in the jupyter notebook here: [GitHub](https://github.com/Ryan-Ashton/Udacity-Data-Engineering/blob/main/etl.ipynb)
+
+The main files utilised are:
+- create_tables.py (to create the tables)
+- sql_queries.py (to organise the SQL queries)
+- etl.py (to process the data) 
 
 
 ## Schema
 
+The visual representation of the Database Schema: 
+
+![picture](img/Star_Schema.jpeg)
