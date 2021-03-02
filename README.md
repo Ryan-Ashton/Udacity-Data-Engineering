@@ -67,4 +67,4 @@ The main files utilised are:
 
 The visual representation of the Database Schema: 
 
-![picture](img/Star_Schema.jpeg)
+![picture](img/Star_Schema.jpg)
